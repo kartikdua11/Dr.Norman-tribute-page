@@ -1,0 +1,72 @@
+
+#main {
+    background-color:#EEEEEE;
+    height:auto;
+    margin-top:40px;
+    margin-bottom:30px;
+   
+  }
+  #img-caption{
+    color:#333333;
+    text-align:center;
+     font-size: 1.5vw;
+  }
+  #title{
+    color:#333333;
+    text-align:center;
+    padding-top: 70px;
+    font-size: 5vw;
+  }
+  
+  #slogan{
+    color:#333333;
+    text-align:center;
+    font-size: 2vw;
+  }
+  .white {
+    background-color:#FFFFFF;
+    height:400px;
+   margin:15px; 
+  }
+  #img-div{
+    
+  }
+  #image{
+    width:100%
+    height:auto;
+    
+    max-width:500px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  h3{
+    color:#333333;
+    padding-top: 70px;
+   font-size: 3vw;
+     text-align:center;
+    padding-bottom: 25px;
+  }
+  #tribute-info{
+     width : 70%
+    margin :50px auto 0;
+    padding-left:10em;
+     padding-right:10em;
+    font-size: 1.5vw;
+    font-family: Lucida Sans Unicode;
+  }
+  
+  .italics{
+    margin-left:20px;
+    padding-top: 20px;
+    font-size: 1.5vw;
+    font-family: Lucida Sans Unicode;
+  }
+  h4{
+    text-align:center;
+    margin-left:-15px;
+    font-size: 2vw;
+     padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom:20px;
+  }
